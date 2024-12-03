@@ -23,24 +23,48 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/6e6397aed26eb4fab8f2c57f52eaa579c90d1730be49af30c8980e9c60b7a77a/68747470733a2f2f69302e77702e636f6d2f7777772e736369656e63656e6577732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f3034303832335f636861746770745f666561742e6769663f6669743d313032342532433537362673736c3d31"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+ <p align="center">
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%232d7e90.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23ffffff.svg?style=for-the-badge&logo=flask&logoColor=black" alt="Flask"></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23b07219.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23232f3e.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C++-%2300599c.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-%2300599c.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%23007396.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS-%23275757.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+  <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML-%23e34c26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-%23007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-%23f37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+  <a href="https://aws.amazon.com">
+    <img align="center" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="30" />
+  </a>
+   <a href="https://opencv.org/">
+    <img align="center" src="https://img.shields.io/badge/OpenCV-%232d7e90.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="30" />
+  </a>
+  <a href="https://pytorch.org/">
+    <img align="center" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="30" />
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img align="center" src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="30" />
+  </a>
+  <a href="https://seaborn.pydata.org/">
+    <img align="center" src="https://img.shields.io/badge/Seaborn-%23459398.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" height="30" />
+  </a>
+  <a href="https://www.tensorflow.org">
+    <img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="30" />
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img align="center" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="30" />
+  </a>
+</p>
 </div>
 
 ###
